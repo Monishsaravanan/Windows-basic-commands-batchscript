@@ -1,9 +1,9 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
 
-NAME : MONISH S
+NAME : KARTHIKEYAN P
 
-REG NO : 212223040115
+REG NO : 212223230102
 
 # AIM:
 To execute Windows basic commands and batch scripting
